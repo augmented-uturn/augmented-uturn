@@ -1,4 +1,5 @@
 - i'm augmented u-turn, but i go by Anex, and closer friends call me Cake
+- genderfluid (mostily non-binary things) they/them/it
 - i'm interested in game development as well as just goofin around with code and all
 - outside of computer science, i draw, am a furry, play music, and play video games (casually, speedrunning, challenge running, you name it), i also love linguistics and conlanging
 - i'm currently learning GOD DANG EVERYTHING (adhd moment)
