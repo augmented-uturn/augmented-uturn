@@ -10,13 +10,11 @@
   LANGUAGES I KNOW
   - SQL
   - HTML/CSS
-  - JavaScript (currently learning how to integrate it with HTML/CSS)
+  - JavaScript
   - Python
   - Learning C++
   - Learning GDScript
-  - Learning Lua
-  - Very interested in Haskell and ASM 65c816
-  - Will start C# beginning next college semester
+  - Learning C#
 
 <!---
 augmented-uturn/augmented-uturn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
